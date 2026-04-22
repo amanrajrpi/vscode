@@ -1,0 +1,9 @@
+{
+    "name": "Aman Raj",
+    "age": 25,
+    "subjects": [
+        "Maths",
+        "Physics"
+    ],
+    "graduated": true
+}
